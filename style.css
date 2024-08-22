@@ -1,0 +1,34 @@
+body{
+    padding: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(Hotel-Balthazar-restaurant-1024x768.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    padding: 200px;
+    margin: 100px;
+}
+h1{
+    background-color: red;
+    padding: 10px;
+    width: 650px;
+    text-align: center;
+    margin: auto;
+
+}
+h2{
+    
+    background-color: red;
+    width: 300px;
+}
+b{
+    text-decoration: underline;
+}
+
+
+a:link{
+    color: coral;
+}
+a:visited{
+    color: blue;
+}
